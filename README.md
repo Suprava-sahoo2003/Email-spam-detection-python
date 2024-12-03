@@ -27,7 +27,7 @@ A machine learning-based application for detecting and classifying emails as **s
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/email-spam-detection.git
+   git clone https://github.com/Suprava-sahoo2003/Email-spam-detection-python.git
 Navigate to the project directory:
 bash
 Copy code
